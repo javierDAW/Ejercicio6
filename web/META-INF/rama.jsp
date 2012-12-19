@@ -1,7 +1,7 @@
 <%-- 
-    Document   : index
-    Created on : 19-dic-2012, 16:36:40
-    Author     : al036049
+    Document   : rama
+    Created on : 19-dic-2012, 16:48:03
+    Author     : vesprada
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Proyecto principal (MASTER)</h1>
-        <h1>Proyecto secundario (RAMA1)</h1>
+        <h1>Rama 1</h1>
     </body>
 </html>
