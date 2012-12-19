@@ -14,5 +14,6 @@
     <body>
         <h1>Proyecto principal (MASTER)</h1>
         <h1>Proyecto secundario (RAMA1)</h1>
+        <h1>Proyecto secundario (RAMA2)</h1>
     </body>
 </html>
